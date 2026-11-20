@@ -1,8 +1,8 @@
 # gta6-meme-x-01 — LEONIDA AIRLINES: DELAYED 13 YEARS
 
 [![make.fun · gta6-meme-x-01](https://make.fun/badge/gta6-meme-x-01.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
-[![make.fun](https://img.shields.io/badge/make.fun-bounty-C41C83)](https://make.fun/bounty/gta6-meme-x-01)
-[![GTA 6 meme on X](https://img.shields.io/badge/X-GTA%206%20meme-000000)](https://make.fun/bounty/gta6-meme-x-01)
+[![rank](https://make.fun/badge/gta6-meme-x-01/ShinoNC/gta6-meme-x-01-v2-entry/rank.svg)](https://make.fun/bounty/gta6-meme-x-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+[![reward](https://make.fun/badge/gta6-meme-x-01/ShinoNC/gta6-meme-x-01-v2-entry/reward.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
 
 An entry for make.fun's bounty **"Post a GTA 6 meme on X"** ($500, top 50 paid).
 The post itself is the entry: an AI judge compares the posts two at a time.
